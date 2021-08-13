@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+.dropdown-item {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
